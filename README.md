@@ -42,7 +42,7 @@ If I got something wrong — particularly in the comparative religion material �
 
 ## License
 
-Everything in this repository is released under **CC0-1.0** (Creative Commons Zero — Public Domain Dedication). Copy it, adapt it, build on it, disagree with it loudly in public — whatever serves your own inquiry. No permission required.
+Everything not specifically addressed by another license in this repository is released under **CC0-1.0** (Creative Commons Zero — Public Domain Dedication); if the folder has a separate LICENSE.md file that license overrides this one. Otherwise copy it, adapt it, build on it, disagree with it loudly in public — whatever serves your own inquiry. No permission required.
 
 © 2026 Jerry Jackson
 Released to the public domain via CC0-1.0
